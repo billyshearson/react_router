@@ -1,0 +1,8 @@
+basically
+
+
+URLSearchParams
+ - you can get the query information from URL,
+ for example,"/archives?date=today&filter=hot"
+ if you wanna pick 'date' up, use query.get('date').
+
